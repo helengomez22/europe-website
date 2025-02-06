@@ -13,4 +13,4 @@ This project demonstrates the deployment of a static teaser website using Google
 3. Deploy the website using GKE and expose it via a Load Balancer.
 
 ## Authors
-[Helen Gomez, Daniel Monge, Jairo Aguilar, Jonathan Beltran, Jose Hernandez, Tatiana Escobar]
+Helen Gomez, Daniel Monge, Jairo Aguilar, Jonathan Beltran, Jose Hernandez, Tatiana Escobar
